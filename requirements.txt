@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langgraph
+openai
+faiss-cpu
+pydantic
+python-dotenv
+beautifulsoup4
+pypdf
+requests
+streamlit
+wikipedia
